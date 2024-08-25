@@ -17,7 +17,11 @@
 
 
 ## 📝 프로젝트
-[Go to My Project](https://github.com/yourusername/yourproject)
+| Project Name          | Description                                      | Link                                      |
+|-----------------------|--------------------------------------------------|-------------------------------------------|
+| **Project A**         | A project that does X, Y, and Z.                 | [View Project](https://github.com/yourusername/projectA) |
+| **Project B**         | This project is focused on solving problem A.    | [View Project](https://github.com/yourusername/projectB) |
+| **Project C**         | An innovative solution to problem B and C.       | [View Project](https://github.com/yourusername/projectC) |
 
 
 <!--
