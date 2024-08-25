@@ -14,15 +14,14 @@
 </div>
 
 
-
+https://704fcb40.bestpartnerseal.pages.dev/
 
 ## 📝 프로젝트
-| Project Name          | GitHub Repository                                | Result Website                            |
-|-----------------------|--------------------------------------------------|-------------------------------------------|
-| **Project A**         | [GitHub Link](https://github.com/yourusername/projectA) | [View Result](https://yourwebsite.com/projectA) |
-| **Project B**         | [GitHub Link](https://github.com/yourusername/projectB) | [View Result](https://yourwebsite.com/projectB) |
-| **Project C**         | [GitHub Link](https://github.com/yourusername/projectC) | [View Result](https://yourwebsite.com/projectC) |
-
+| Project Name          | Description                                      | GitHub Repository                                | Result Website                            |
+|-----------------------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------|
+| **Project A**         | A project that automates task X using Python.    | [GitHub Link](https://github.com/yourusername/projectA) | [View Result](https://yourwebsite.com/projectA) |
+| **Project B**         | A web application built with React and Node.js.  | [GitHub Link](https://github.com/yourusername/projectB) | [View Result](https://yourwebsite.com/projectB) |
+| **최고의 물범 찾기**         | OpenApi와 상호작용하면서 나만의 물범파트너를 찾는 프로젝트(MBTI테스트)  | [GitHub Link](https://github.com/yourusername/projectC) | [View Result](https://704fcb40.bestpartnerseal.pages.dev/) |
 
 
 <!--
