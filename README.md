@@ -17,11 +17,12 @@
 
 
 ## 📝 프로젝트
-| Project Name          | Description                                      | Link                                      |
+| Project Name          | GitHub Repository                                | Result Website                            |
 |-----------------------|--------------------------------------------------|-------------------------------------------|
-| **Project A**         | A project that does X, Y, and Z.                 | [View Project](https://github.com/yourusername/projectA) |
-| **Project B**         | This project is focused on solving problem A.    | [View Project](https://github.com/yourusername/projectB) |
-| **Project C**         | An innovative solution to problem B and C.       | [View Project](https://github.com/yourusername/projectC) |
+| **Project A**         | [GitHub Link](https://github.com/yourusername/projectA) | [View Result](https://yourwebsite.com/projectA) |
+| **Project B**         | [GitHub Link](https://github.com/yourusername/projectB) | [View Result](https://yourwebsite.com/projectB) |
+| **Project C**         | [GitHub Link](https://github.com/yourusername/projectC) | [View Result](https://yourwebsite.com/projectC) |
+
 
 
 <!--
