@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 </div>
 
-
-https://704fcb40.bestpartnerseal.pages.dev/
-
 ## 📝 프로젝트
 | Project Name          | Description                                      | GitHub Repository                                | Result Website                            |
 |-----------------------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------|
