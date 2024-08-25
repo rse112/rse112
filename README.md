@@ -18,7 +18,7 @@
 |-----------------------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------|
 | **Project A**         | A project that automates task X using Python.    | [GitHub Link](https://github.com/yourusername/projectA) | [View Result](https://yourwebsite.com/projectA) |
 | **Project B**         | A web application built with React and Node.js.  | [GitHub Link](https://github.com/yourusername/projectB) | [View Result](https://yourwebsite.com/projectB) |
-| **최고의 물범 찾기**         | OpenApi와 상호작용하면서 나만의 물범파트너를 찾는 프로젝트(MBTI테스트)  | [GitHub Link](https://github.com/yourusername/projectC) | [View Result](https://704fcb40.bestpartnerseal.pages.dev/) |
+| **최고의 물범 찾기**         | OpenApi와 상호작용하면서 나만의 물범파트너를 찾는 프로젝트(MBTI테스트)  | [GitHub Link](https://github.com/rse112/SealMatch) | [View Result](https://704fcb40.bestpartnerseal.pages.dev/) |
 
 
 <!--
