@@ -3,9 +3,7 @@
 ## Hi there 👋
 
 ## 기술스택
-ㅎㄹㅇ
-
-
+<img src="https://img.shields.io/badge/#3776AB?style=for-the-badge&logo=Python&logoColor=black">
 
 
 <!--
