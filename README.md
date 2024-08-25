@@ -6,6 +6,9 @@
 <div style="display: flex; align-items: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=Teradata&logoColor=white">
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
+  
 </div>
 
 
