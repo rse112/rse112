@@ -13,10 +13,15 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 </div>
 ## 경력
+
 * 학교 : 건국대학교
+
 * 학과 : 수학과 전공 / 응용통계학과 다전공
+* 
 * 인턴 : (주)리얼데이터(2024-02-01~2024-06-30)
+* 
   - KB증권 M-able 어플 사용자 데이터 세그먼트 분류
+  - 
   - IRP/퇴직연금 관련 마케팅 데이터 분석 진행
 
 ## 📝 프로젝트
