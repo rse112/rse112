@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Django-092E203?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 </div>
+
 ## 경력
 
 * 학교 : 건국대학교
