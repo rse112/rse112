@@ -12,13 +12,18 @@
   <img src="https://img.shields.io/badge/Django-092E203?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 </div>
+## 경력
+* 학교 : 건국대학교
+* 학과 : 수학과 전공 / 응용통계학과 다전공
+* 인턴 : (주)리얼데이터(2024-02-01~2024-06-30)
+  - KB증권 M-able 어플 사용자 데이터 세그먼트 분류
+  - IRP/퇴직연금 관련 마케팅 데이터 분석 진행
 
 ## 📝 프로젝트
 | Project Name          | Description                                      | GitHub Repository                                | Result Website                            |
 |-----------------------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------|
 | **FinTrend**         | 크롤링 및 네이버 트렌드데이터를 통해 지금 떠오르는 금융키워드를 추출하는 프로젝트 | [GitHub Link](https://github.com/rse112/FinTrendX) | [View Result](https://trendkey-7a41071967af.herokuapp.com/) |
 | **최고의 물범 찾기**         | OpenApi와 상호작용하면서 나만의 물범파트너를 찾는 프로젝트(MBTI테스트)  | [GitHub Link](https://github.com/rse112/SealMatch) | [View Result](https://704fcb40.bestpartnerseal.pages.dev/) |
-
 
 <!--
 **rse112/rse112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
