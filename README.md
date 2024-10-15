@@ -48,7 +48,7 @@
 
 | Project Name          | Description                                      | GitHub Repository                                | Result Website                            |
 |-----------------------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------|
-| **FinTrend**         | 크롤링 및 네이버 트렌드데이터를 통해 지금 떠오르는 금융키워드를 추출하는 프로젝트 | [GitHub Link](https://github.com/rse112/FinTrendX) | [View Result](https://trendkey-7a41071967af.herokuapp.com/) |
+| **FinTrend**         | 핫한 금융키워드를 추출하는 프로젝트 | [GitHub Link](https://github.com/rse112/FinTrendX) | [View Result](https://trendkey-7a41071967af.herokuapp.com/) |
 
 ## 💡프로젝트 소개
 FinTrendX는 사람들이 금융 관련 키워드를 네이버에 검색하면서 얻은 데이터를 통해, 현재 어떤 키워드가 핫한지, 어떤 키워드가 지속적으로 상승하고 있는지를 확인하기 위한 프로젝트입니다. 연관 검색어, 트렌드 데이터, 뉴스, 블로그 데이터를 수집하고 분석하여 급상승, 지속상승, 규칙성을 보이는 데이터를 분류하는 것을 목표로 합니다.
