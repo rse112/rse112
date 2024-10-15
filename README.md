@@ -14,8 +14,10 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 </div>
 
+## 링크
+블로그 : https://rse112.github.io/
 
-## 자기소개
+## ✨ 자기소개
 
 ### **안녕하세요 조찬규입니다**  
 끊임없이 배움과 도전을 즐기며, 성장하는 데이터 분석가를 꿈꾸고 있습니다.
